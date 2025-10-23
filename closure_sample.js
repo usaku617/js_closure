@@ -68,7 +68,7 @@ function closureTest1() {
     } else {
         alert("Number:Validate NG");
     }
-    //validateStr2_3の引数を変えて実験してみてください。
+    //validateStr2_5の引数を変えて実験してみてください。
     if (validateStr2_5("hello!")) {
         alert("String:Validate OK!");
     } else {
