@@ -1,6 +1,5 @@
 "user strict";
 
-//サンプルは3つくらい作ろうと思いましたが、眠いので断念しました。m(_ _)m
 document.getElementById("btn1").addEventListener("click", closureTest1);
 //document.getElementById("btn2").addEventListener("click", closureTest2);
 //document.getElementById("btn3").addEventListener("click", closureTest3);
@@ -75,3 +74,4 @@ function closureTest1() {
         alert("String:Validate NG");
     }
 }
+
