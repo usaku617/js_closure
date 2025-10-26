@@ -1,4 +1,4 @@
-"user strict";
+"use strict";
 
 document.getElementById("btn1").addEventListener("click", closureTest1);
 //document.getElementById("btn2").addEventListener("click", closureTest2);
@@ -74,4 +74,5 @@ function closureTest1() {
         alert("String:Validate NG");
     }
 }
+
 
